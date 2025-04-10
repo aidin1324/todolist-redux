@@ -2,6 +2,12 @@
 
 A feature-complete Todo application built with React, Redux Toolkit, and Redux Persist. This application allows users to manage tasks with persistence across page reloads.
 
+
+![image](https://github.com/user-attachments/assets/3cc6c82b-cf3b-411e-a575-41455da10738)
+![image](https://github.com/user-attachments/assets/f94a3b8d-d42b-4e3d-92e7-100ca6cb8073)
+![image](https://github.com/user-attachments/assets/6ccec6dd-01b0-4d08-99c9-fea26cf6b0e3)
+
+
 ---
 
 ## Assignment Requirements
